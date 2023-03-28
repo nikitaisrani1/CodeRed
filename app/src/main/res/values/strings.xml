@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Code Red</string>
+    <string name="FirstString">When did your last period start?</string>
+    <string name="SecondString">How long is your average cycle?</string>
+
+    <string-array name="days">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+
+
+    </string-array>
+
+    <string-array name="days2">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+
+
+    </string-array>
+
+    <string name="title_activity_tracking">MainActivity</string>
+    <string name="question1">What happens when I get my period?</string>
+    <string name="answer1">The menstrual cycle consists of monthly changes as your uterus prepares for a possible pregnancy. The lining of the uterus hardens to form a cluster of blood vessels, glands, and fluid. If you are pregnant, that membrane will take care of the fertilized egg (a woman\'s egg fertilized with a man\'s sperm). If the egg is not fertilized, the membrane (especially blood and other fluids) passes through the vagina. This bleeding is called a period, or menstruation.</string>
+    <string name="question2">How long does my period last?</string>
+    <string name="answer2">Most human life lasts about 5 days. The first day of bleeding in each cycle is called Day 1. Sometimes you can bleed for up to 2 days, or sometimes up to 8 days. This list is quite common. The body\'s process of preparing the lining of the uterus for pregnancy and its disposal takes about a month. Times usually arrive within 28 days, but this may vary. During the first two or three years, your time may be running out. You can have two in a row and go for a few months without any time at all. You will also find that your blood flow varies (may be difficult, or light) on different days of your period. This is completely normal and the pattern will be different for everyone.</string>
+    <string name="question3">How old will I be when I first get my period?</string>
+    <string name="answer3">There is no way to know when your first period will come. It will come sometime between the ages of 9 and 15 but it may be earlier or later. Every girl is different. If you have not started menstruating when you are 17, talk to your doctor about it. Women usually stop menstruating between the ages of 45 and 55. This is called menopause.</string>
+    <string name="question4">Will I get period pain?</string>
+    <string name="answer4">Women often experience a variety of physical and emotional symptoms before and during their period. This is often called premenstrual syndrome (PMS). Mood swings are a common disorder of PMS. Some women may feel anxious before menstruation, while others may feel irritated or angry. Not all girls experience these symptoms and disappear quickly after the onset of menstruation. Just before the onset of menstruation, you may feel a sharp pain in your abdomen or pelvic area. This can last for the first 12 hours. Some of the girls said they felt very comfortable and heavy during this time. Some girls experience mild diarrhea just before menstruation. Constipation is also common. If this happens to you, drink plenty of water, eat more fruits and vegetables and whole grains. Try to exercise regularly. You should not use laxatives. Some women and girls experience abdominal pain and cramps during their period. If you have pain during your period, try stretching and exercising, or wrap yourself in a burning wheat bag or hot water bottle in a painful area. If this does not work, you may be able to take pain relief. Talk to a parent, doctor or pharmacist about what kind of help is best for you.</string>
+    <string name="question5">Vaginal discharge</string>
+    <string name="answer5">During the days of your menstrual cycle, the cervix produces fluid or discharge. This is a small amount of fluid that keeps the walls of the vagina clean and slowly drains outwards. This fluid is usually dry and light yellow in your underwear. You may notice differences in these secrets at different times of your cycle. Sexual pleasure also produces a vaginal fluid. This is normal and healthy.</string>
+    <string name="question6">Do I need to keep my vagina clean?</string>
+    <string name="answer6">The vaginal fluid helps the vagina to cleanse itself, so you do not need to wash the inside of the vagina and you should not use perfume sprays! When should I be concerned about vaginal discharge? Prolonged, heavy discharge from the vagina can be a sign of infection. For example, a thick, white, hot, smelly discharge is a sign of thrush. If you have thrush, the first thing you notice is itching of the vagina. Trush is a very common condition and can be easily treated.</string>
+    <string name="question7">What are the period products available in the market?</string>
+    <string name="answer7">"PADS:" \n These are cotton pads that stick to your underwear to soak up blood, and that you discard after use. They come in many different forms and types of absorbency(the amount of blood they can dip). Pads should never be flushed down the toilet, but instead wrapped in toilet paper and dumped in a sanitary bin next to the toilet.
+        "\n Cost: Packs range between Rs80- Rs500 depending on type, brand and number of pads per pack."
+        "\n Pros: Easy to use, pads can be purchased at any supermarket and pharmacy, as well as most dairies and small convenience stores. They can be ordered online as well."
+        "\n Cons: As convenient as they are, pads are not ideal for the environment as they are single-use items that you throw away after a few hours’ use."
+        "\n\n REUSABLE PADS: \n These are cloth pads that you can rinse and reuse. They are usually made of absorbing material such as cotton or bamboo and have a snap button on the wings to secure around your underwear. It is recommended that after using the pad, you wash it, soak it overnight and then reuse it.
+        "\n Cost: A single pad can range between Rs200- Rs700 depending on absorbency and brand. Most brands have packs you can purchase, which usually means a lower per-item price.
+        "\n Pros: Like disposable pads they are easy to use. They are also much better for the environment as they can be washed and reused."
+        "\n Cons: They do require a bit of work, as you have to rinse, soak, wash and dry them between uses. The upfront cost can seem quite steep, but as they are reusable, over the long run you will save money. They are not easily available in India yet."
+        "\n\n TAMPONS: \n These are pieces of cotton with a string attached at one end. You insert them into your vagina to soak up your blood, and pull them out using the string. You should change a tampon every 4-6 hours, or as needed. You can choose from a range of sizes, depending on how heavy your period is.
+        "\n Cost: Packs range between Rs200 -Rs600 depending on type, brand and number of tampons per pack."
+        "\n Pros: Small, and easy to discretely pack in your bag or pocket. If inserted correctly, you cannot feel you are wearing a tampon, making them very comfortable and convenient. You can go swimming when you are wearing a tampon which may not be practical with other period products."
+        "\n Cons: There is a small risk of toxic shock syndrome (TSS) when using tampons. TSS is a rare bacterial infection that can cause damage to vital organs. To minimise your risk, always wash your hands before handling and inserting a tampon, use the lowest absorbency to suit your flow, change your tampon at least every 8 hours or sooner and always take the tampon out before you go to sleep.""
+        "\n\n MENSTRUAL CUPS: \n These are soft, environment friendly, medical silicone or rubber cups that are put into the vagina to catch the blood flow. You empty the cup every 8-12 hours, rinse it under water, and put it back in.
+        "\n Cost: The cost upfront may seem high at between Rs250 - Rs600, but given the cup is reusable and can last for a couple of years, in the longterm you will be able to save a lot of money not having to purchase pads/tampons every month."
+        "\n Pros: If inserted correctly, cups should feel comfortable and not leak or spill, making them suitable to be used while exercising, as well as swimming. They are also much better for the environment, as you are able to drastically cut down on the number of menstrual products you use."
+        "\n Cons: They can be messy and tricky to insert as a beginner, but with practice it gets easier. If you are squeamish about blood this might not be the product for you, as it requires washing after each use.""
+        "\n\n PERIOD UNDERWEAR: \n These look and feel like your regular underwear, but are very absorbing. They can be used instead of pads or tampons when you have a light flow at the end of your period, or as a back-up in case of a heavy flow.
+        "\n Cost: Rs600 - Rs1500, depending on brand and type of underwear."
+        "\n Pros: Very convenient, as period underwear feel just like normal underwear. They are also another environmentally-friendly option as you just need to wash them and they can be reused."
+        "\n Cons: You need to build a collection to ensure you have enough to see you through your period day and night, so the upfront cost can seem like a lot. If you have particularly heavy periods, you may need to use a pad of tampon with your period underwear on your heaviest days to ensure no leaks.""
+    </string>
+    <string name="question8">Some interesting facts about periods:-</string>
+    <string name="answer8">
+        "\n 1. All menstrual cycles do not last 28 days."
+        "\n 2. Periods can be irregular due to stress or illness."
+        "\n 3. Fluctuations in weight can affect your period."
+        "\n 4. Abnormal bleeding can indicate more serious health issues.</string>
+    <string name="question9">When to consult a doctor?</string>
+    <string name="answer9">
+        "\n ● your period hasn't started by 17 years of age"
+        "\n ● bleeding occurs between periods"
+        "\n ● your periods are very heavy or blood clots are passed(You are soaking through one or more pads or tampons each hour for several hours in a row)"
+        "\n ● your periods lasts longer than 8 days"
+        "\n ● you notice sores or itchiness in the genital area"
+        "\n ● your vagina has a persistently unpleasant odour despite personal cleanliness."
+        "\n ● Your periods used to be regular, but they've become irregular."
+        "\n ● Your Period Has Slowed or Stopped"
+        "\n ● Your period comes more often than every 21 days, or less often than every 35 days, for several cycles."
+        "\n ● You stopped bleeding for 12 months in a row (due to menopause) and are now bleeding again"
+        "\n ● You're Experiencing a Lot of Pain With Your Period"
+    </string>
+    <string name="pcos1">PCOS</string>
+    <string name="pcos2">Polycystic ovary syndrome (PCOS) also known as PCOD is a condition that affects a woman’s hormone levels. Women having PCOS produce higher-than-normal amounts of male hormones. This imbalance of hormones causes their body to skip menstrual periods and makes it harder for them to get pregnant. PCOS also causes hair growth on the face and body, and baldness. And it can contribute to long-term health problems like diabetes and heard diseases.</string>
+    <string name="pcos3">What causes PCOS?</string>
+    <string name="pcos4">Doctors don’t exactly know what causes PCOS. They believe it stems from factors such as genes, insulin resistance, or higher levels of inflammation in the body.</string>
+    <string name="pcos5">Common symptoms of PCOS</string>
+    <string name="pcos6">"Some women start noticing the symptoms around the time of their first period. While others only discover they have PCOS after they’ve gained a lot of weight or they’ve had trouble getting pregnant. The most common PCOS symptoms are: \n"
+        "\n ● Irregular periods - lack of ovulation in the body prevents the uterine lining from shedding every month. Some women with PCOS get fewer than eight periods a year or none at all."
+        "\n ● Heavy bleeding"
+        "\n ● Hair growth-More than 70 percent of women with PCOS grow hair on their face and body — including on their back, belly, and chest. Experiencing excess hair is called hirsutism."
+        "\n ● Acne- Having male hormones can make the skin oilier than usual and cause breakouts on areas like the face, chest, and upper back."
+        "\n ● Unexplained weight gain- Up to 80 percent of women with PCOS are overweight or have obesity and have trouble loosing weight."
+        "\n ● Male pattern baldness-Hair on the scalp gets thinner and may fall out thus causing immense hairloss."
+        "\n ● Darkening of the skin-Dark patches of skin can form in body creases like those on the neck, in the groin region , and under the breasts."
+        "\n ● Headaches-Hormone changes can trigger headaches and migraines in some women."
+    </string>
+    <string name="pcos7">Quiz-</string>
+    <string name="pcos8">Young women with PCOS usually have certain set of symptoms. The following quiz is created by us to help you figure out if you might have PCOS/PCOD . This quiz is designed as an educational tool and is NOT a substitute for medical advice by your health care provider.</string>
+    <string name="quiz1">1.Do you have irregular periods?</string>
+    <string name="quizAns1">" ● My periods come about every 2-3 months or less often." "\n ● I get my period every 2-3 weeks."
+    </string>
+    <string name="quizAns">Yes. One or more of the following is true:</string>
+    <string name="quiz2">2.Do you have acne or other skin problems?</string>
+    <string name="quizAns2">" ● My acne is pretty bad."
+        "\n ● I have darker patches of skin on the back of my neck."
+        "\n ● I have darker patches of skin in the area under my arms."
+        "\n ● I have darker patches of skin in my groin area.</string>
+    <string name="quiz3">3.Have you had any hair changes or extra hair growth?"</string>
+    <string name="quizAns3">" ● I\'ve noticed I have dark hair above my lip - like a mustache."
+        "\n ● I have extra dark hair in other places - my chin, neck, or chest area."
+        "\n ● The hair on my head feels like it\'s getting thin."</string>
+    <string name="quiz4">4.Do you have trouble maintaining a healthy weight?</string>
+    <string name="quizAns4">" ● It seems like I suddenly put on a lot of weight."
+        "\n ● No matter what I try, I have a hard time getting down to a normal weight."
+    </string>
+    <string name="quiz5">5.Do you have a family history of PCOS or diabetes?</string>
+    <string name="quizAns5">" ● I have a relative with PCOS."
+        "\n ● I have diabetes."
+        "\n ● Diabetes runs in my family.</string>"
+
+
+</resources>

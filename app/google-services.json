@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529846153394",
+    "firebase_url": "https://mtracker-a078c-default-rtdb.firebaseio.com",
+    "project_id": "mtracker-a078c",
+    "storage_bucket": "mtracker-a078c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529846153394:android:ce5fe4733aaab263c019ab",
+        "android_client_info": {
+          "package_name": "com.righttickk.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529846153394-nhll8gv3mv4lm2s89e7pf3lvq5vjhr9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCQAAWTfRmkZTbk4K0t7ovZiJFFObn3oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529846153394-nhll8gv3mv4lm2s89e7pf3lvq5vjhr9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

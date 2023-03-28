@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/img_calendar"
+        android:title="Calendar" />
+
+    <item
+        android:id="@+id/nav_cycle"
+        android:icon="@drawable/img_cycle"
+        android:title="Cycle" />
+
+    <item
+        android:id="@+id/nav_health"
+        android:icon="@drawable/img_health"
+        android:title="Health" />
+
+    <item
+        android:id="@+id/nav_faq"
+        android:icon="@drawable/img_faq"
+        android:title="FAQs" />
+
+    <item
+        android:id="@+id/nav_blog"
+        android:icon="@drawable/img_blog"
+        android:title="Blog" />
+
+</menu>
